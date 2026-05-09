@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on  <br>Building web development projects with Mern stack and Agentic AI <br><br>🧑‍🤝‍🧑 I’m looking to collaborate on  <br>Open‑source projects, front‑end design, and beginner‑friendly coding initiatives.<br><br>🤝 I’m looking for help with  <br>Exploring advanced JavaScript frameworks and backend technologies to strengthen my full‑stack skills.<br><br>🌱 I’m currently learning  <br>Modern web development practices, responsive design
+🔭 I’m currently working on  <br>Building web development projects with Mern stack and Agentic AI <br><br>🧑‍🤝‍🧑 I’m looking to collaborate on  <br>Open‑source projects, front‑end design, and beginner‑friendly coding initiatives.<br><br>🤝 I’m looking for help with  <br>Exploring advanced JavaScript frameworks and backend technologies to strengthen my full‑stack skills.<br><br>🌱 I’m currently learning  <br>Modern web development , Agentic AI and 3d Web Devlpoment 
 
 
 ## 🌐 Socials:
